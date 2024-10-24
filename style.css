@@ -7,13 +7,12 @@ body {
     font-size: xx-large;
 }
 
-#container {
-    display: flex;
+.container {
     background-color: #63666A;
     border: solid #a9a9a9;
 }
 
-#container > p {
+#text {
     padding: 0px 10px;
     color: #11FfEE;
     top: 50%;
